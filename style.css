@@ -1,0 +1,6 @@
+
+body { color: white; background-color: black;text-align: center;}
+h1{ text-transform: upopercase;font-size: 3rem;}
+img{ border: 5px solid white;  width:100%; }
+h1{ font-family: "https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform";}
+div{margin-top: 100px; width:50%;margin-left: 25%;}
